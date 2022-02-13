@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [PUSHP SOPORI](https://www.linkedin.com/in/pushp-sopori-61b48a19a/)# Welcome to StackEdit!
+- 👋 Hi, I’m [PUSHP SOPORI](https://www.linkedin.com/in/pushp-sopori-61b48a19a/)
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python, aws, c++...
 <!---
